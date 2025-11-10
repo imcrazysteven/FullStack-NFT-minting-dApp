@@ -95,7 +95,7 @@ EternalNFT
 1. Clone the project repository on your local machine
 
 ```
- git clone https://github.com/dodger213/FullStack-NFT-minting-dApp.git
+ git clone https://github.com/imcrazysteven/FullStack-NFT-minting-dApp.git
  cd FullStack-NFT-minting-dApp
 ```
 
